@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NetflixClone</string>
+    <string name="home_tab_label">Home</string>
+    <string name="coming_soon_tab_label">Coming Soon</string>
+    <string name="downloads_tab_label">Downloads</string>
+    <string name="smart_downloads">Smart Downloads</string>
+    <string name="introducing_downloads_for_you">Introducing Downloads for You</string>
+    <string name="we_ll_download_a_personalized">We\'ll download a personalized selection of movies and shows for you, so there\'s always something to watch on your phone.</string>
+    <string name="set_up">SET UP</string>
+    <string name="find_something_to_download">Find Something to Download</string>
+    <string name="prime_details">Amazon Prime Video, or simply Prime Video, is an American subscription video on-demand over-the-top streaming and rental service of Amazon.com, Inc., offered as a standalone service or as part of Amazon\'s Prime subscription.</string>
+
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Don\'t have an account? <b>Sign up.</b></string>
+    <string name="username_is_clicked">Username is clicked</string>
+    <string name="next">Next</string>
+    <string name="enter_full_name_and_password">Enter full name and password</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="website">Website</string>
+    <string name="bio">Bio</string>
+    <string name="private_information">Private Information</string>
+    <string name="change_photo">Change Photo</string>
+
+</resources>
